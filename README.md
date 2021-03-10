@@ -20,10 +20,10 @@ Source: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository
 
 ## Installation - Please install below special libraries before you run the G8_INFO-T780-002_Final_Project.ipynb file
 
--- !pip install yellowbricks
--- !pip install lightgbm
--- !pip install xgboost
--- !pip install catboost
+-- !pip install yellowbricks </br>
+-- !pip install lightgbm </br>
+-- !pip install xgboost </br>
+-- !pip install catboost </br>
 
 ## Process Flow/Project Structure:
 
